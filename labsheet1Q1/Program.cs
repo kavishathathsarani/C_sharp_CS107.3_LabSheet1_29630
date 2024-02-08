@@ -4,8 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace c_lab1
+namespace Q1
 {
+    /* Write a Console Application Program to calculate the area of a rectangle
+     Prompt the user to enter the length and width
+    Display the calculated area. (use a separate function calculate the area
+     */
     internal class Program
     {
         static void Main(string[] args)
